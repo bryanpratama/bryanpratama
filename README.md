@@ -17,7 +17,7 @@ I'm a tech enthusiast and developer specializing in front-end and full-stack dev
 
 - **Personal Portfolio Website**  
   A modern portfolio website built with **React** and **Next.js** to showcase my projects and skills.
-  [Repository Link](https://github.com/bryanpratama/portfolio-website)
+  [Portofolio Link](https://bryanpratama.github.io/portofolio/)
 
 ## 📘 About Me
 
