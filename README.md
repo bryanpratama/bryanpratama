@@ -33,14 +33,6 @@ I'm a tech enthusiast and developer specializing in front-end and full-stack dev
 - Contribute to **open-source projects** and collaborate with other developers.
 - Develop more advanced **IoT projects** with Arduino and explore integration with mobile applications.
 
-## 📈 My Skills Progress
-
-- HTML & CSS ![80%](https://progress-bar.dev/80)
-- JavaScript ![75%](https://progress-bar.dev/75)
-- Python ![60%](https://progress-bar.dev/60)
-- C & Arduino ![70%](https://progress-bar.dev/70)
-- React & Next.js ![65%](https://progress-bar.dev/65)
-
 ## 🎉 Fun Facts
 
 - I enjoy building **DIY gadgets** and exploring **IoT** technology.
