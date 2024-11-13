@@ -1,11 +1,11 @@
 <h1 align="center">Hi there! I'm Bryan Pratama Putra 👋</h1>
 
-I'm a tech enthusiast and developer specializing in front-end and full-stack development. Currently pursuing a degree in **Information Technology**. My journey in coding started with the basics, and now I’m building sophisticated web applications with modern tools and frameworks. I also enjoy working on electronics projects with Arduino!
+I'm a tech enthusiast and **front-end developer**, specializing in creating engaging **user interfaces and experiences**. With a degree in **Information Technology**, I began my coding journey with the basics and now work on building modern, responsive web applications. I also enjoy working on electronics projects with **Arduino**!
 
 ## 🚀 Technologies & Tools
 
-- **Languages**: HTML, CSS, JavaScript, Python, C
-- **Frameworks & Libraries**: React, Next.js
+- **Languages**: HTML, CSS, JavaScript,TypeScript, Python, C
+- **Frameworks & Libraries**: React JS, Next.jS
 - **Build Tools**: Vite
 - **Electronics**: Arduino
 
