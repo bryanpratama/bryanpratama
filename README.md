@@ -13,23 +13,23 @@ I'm a tech enthusiast and **front-end developer**, specializing in creating enga
 
 - **Smart Home Automation with Arduino**  
   A project that automates household devices using Arduino and C programming. Includes features like remote control via a web interface.
-  [Repository Link](https://github.com/bryanpratama/smart-home-automation)
+  [Repository Link](https://github.com/bryanpratama/SmartHome-IoT)
 
 - **Personal Portfolio Website**  
-  A modern portfolio website built with **React** and **Next.js** to showcase my projects and skills.
+  My clean and minimalist portfolio website, designed entirely from scratch to effectively showcase my projects and skills.
   [Portofolio Link](https://bryanpratama.github.io/portofolio/)
 
 ## 📘 About Me
 
 - 🔭 I’m currently working on enhancing my skills with **React** and **Next.js** to build dynamic and responsive user interfaces.
-- 🌱 I’m diving deeper into **backend development** with Python and exploring the possibilities with **Next.js server-side rendering**.
+- 🌱 I’m diving deeper into **backend development** with JavaScript and exploring the possibilities with **Next.js server-side rendering**.
 - 🤖 I enjoy creating projects using **Arduino** and experimenting with electronics.
 - 💬 Ask me about web development, **JavaScript frameworks**, or **Arduino projects**!
 - 📫 You can reach me at: [bpratama116@gmail.com](mailto:bpratama116@gmail.com)
 
 ## 🎯 Goals for 2024
 
-- Build a **full-stack web application** using Next.js and a backend in Python.
+- Build a **full-stack web application** using Next.js and a backend in JavaScript.
 - Contribute to **open-source projects** and collaborate with other developers.
 - Develop more advanced **IoT projects** with Arduino and explore integration with mobile applications.
 
@@ -51,4 +51,4 @@ I'm a tech enthusiast and **front-end developer**, specializing in creating enga
 
 ## 🌐 Connect with Me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/bryan-pratama-putra) or check out my projects on [GitHub](https://github.com/bryanpratama)!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/bryan-pratama-putra) or check out my projects on [GitHub](https://github.com/bryanpratama?tab=repositories)!
